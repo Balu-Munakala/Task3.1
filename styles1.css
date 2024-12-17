@@ -1,0 +1,22 @@
+body {
+    background: #9face6;
+}
+
+.container {
+    text-align: center;
+    padding-top: 15%;
+
+}
+
+.link {
+    display: inline-block;
+    border: 5px solid #fff;
+    border-radius: 15px;
+}
+
+.link img {
+    display:flex;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
